@@ -1,0 +1,21 @@
+body {
+color:rgb(240, 240, 0)  initial;
+background-color:royalblue;
+}
+
+
+#camera {
+    border: 2px - royalblue;
+    width: 350px;
+    height: 300px- initial;
+} 
+
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_object, #result_object_accuracy , #result_object_accuracy {
+    color:blue initial;
+}
